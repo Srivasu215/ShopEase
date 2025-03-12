@@ -1,0 +1,6 @@
+post http://localhost:3000/OTPVerify/0
+Content-Type: application/json
+
+{
+    "OTP":"5555"
+}

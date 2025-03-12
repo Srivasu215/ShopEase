@@ -1,0 +1,6 @@
+PUT http://localhost:3000/OTPUpdate/0
+Content-Type: application/json
+
+{
+    "OTP":"5555"
+}

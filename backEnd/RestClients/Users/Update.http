@@ -1,0 +1,6 @@
+PUT http://localhost:3000/UsersOTP/6
+Content-Type: application/json
+
+{
+    "OTP":"1188"
+}
